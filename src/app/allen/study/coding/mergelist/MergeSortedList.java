@@ -49,5 +49,6 @@ public class MergeSortedList{
             list1.printList();
             t--;
         }
+        sc.close();
     }
 }
